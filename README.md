@@ -1,6 +1,6 @@
 # Python Scripts For All
 ### This is a collection of well organized python script from famous books. 
-### This could be helpful to start out practice.
+### This could be helpful to start out your Python practice.
 
 ## Feel free to share with your friends and others
 
